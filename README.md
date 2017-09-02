@@ -9,3 +9,5 @@ react-contacts
 ## Usage
 
 ```yarn start```
+
+![react-contacts](screenshot.png)
